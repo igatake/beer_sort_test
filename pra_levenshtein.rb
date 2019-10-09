@@ -67,7 +67,7 @@ module Levenshtein
   end
 end
 
-file_name = 'result_ikebukuro_20191008-161635.csv'
+file_name = 'result_ikebukuro_20191009-175450.csv'
 
 header = %w[drink price name url]
 CSV.foreach("./#{file_name}", headers: true) do |row|
