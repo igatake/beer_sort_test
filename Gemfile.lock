@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    csv (3.1.1)
+    csv (3.1.2)
     levenshtein (0.2.2)
 
 PLATFORMS
